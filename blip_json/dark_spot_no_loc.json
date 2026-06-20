@@ -1,0 +1,4550 @@
+{
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000258.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011151.jpg": {
+        "caption": "brown square dark spot",
+        "prefix": [
+            "brown square "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000023.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000494.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009564.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009891.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000212.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010565.jpg": {
+        "caption": "pink circle dark spot",
+        "prefix": [
+            "pink circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0002673.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011171.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009880.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000392.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001960.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000298.jpg": {
+        "caption": "black circle dark spot",
+        "prefix": [
+            "black circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0008626.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000371.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000377.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000279.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010336.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011319.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001185.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0007322.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010596.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011092.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010037.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009869.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011090.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0008507.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000448.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010033.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011213.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009078.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000289.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000226.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010592.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000482.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011386.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000057.jpg": {
+        "caption": "red heart dark spot",
+        "prefix": [
+            "red heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010598.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000149.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011336.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010360.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009990.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000527.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011107.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000539.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000126.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0005000.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010347.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000320.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011143.jpg": {
+        "caption": "brown star dark spot",
+        "prefix": [
+            "brown star "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010574.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001181.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000449.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009906.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009035.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000165.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010047.jpg": {
+        "caption": "red heart dark spot",
+        "prefix": [
+            "red heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000357.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000161.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009994.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009977.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011080.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011162.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000174.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010854.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010846.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001190.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010192.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011205.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009993.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009946.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000253.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000071.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000202.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000172.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009926.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011344.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010379.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011098.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011175.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000466.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011150.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000132.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009982.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001128.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010597.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009902.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011155.jpg": {
+        "caption": "brown oval dark spot",
+        "prefix": [
+            "brown oval "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009918.jpg": {
+        "caption": "gray circle dark spot",
+        "prefix": [
+            "gray circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001685.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000014.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011292.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000136.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000476.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010180.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000117.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000111.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000534.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000027.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000164.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009885.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010011.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000169.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011227.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000509.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010483.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010847.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000328.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010207.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009879.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011349.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009998.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010474.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001131.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009083.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011363.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000196.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010255.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010173.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011168.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001142.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000540.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009970.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000197.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000319.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000129.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000222.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0007693.jpg": {
+        "caption": "brown person's face dark spot",
+        "prefix": [
+            "brown person's face "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010604.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010183.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000257.jpg": {
+        "caption": "brown hand dark spot",
+        "prefix": [
+            "brown hand "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001484.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009882.jpg": {
+        "caption": "brown paw dark spot",
+        "prefix": [
+            "brown paw "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011112.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010591.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000310.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010009.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001100.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000195.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010201.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000066.jpg": {
+        "caption": "brown octagon dark spot",
+        "prefix": [
+            "brown octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009945.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000230.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010494.jpg": {
+        "caption": "purple heart dark spot",
+        "prefix": [
+            "purple heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000499.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010377.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000160.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000484.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009931.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010041.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009948.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010062.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000525.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000040.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000537.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010331.jpg": {
+        "caption": "brown square dark spot",
+        "prefix": [
+            "brown square "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010020.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000020.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000343.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010089.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000340.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000490.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010202.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000433.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000056.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000271.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000072.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010449.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0004115.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011325.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000378.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000115.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011300.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000388.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011081.jpg": {
+        "caption": "pink circle dark spot",
+        "prefix": [
+            "pink circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009901.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010073.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011089.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000043.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010038.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000550.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000037.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010556.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010456.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009965.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010856.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010059.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010606.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010373.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010103.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011149.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009881.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000201.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0003559.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001186.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011152.jpg": {
+        "caption": "black circle dark spot",
+        "prefix": [
+            "black circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010077.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000518.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009954.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010187.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010863.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011167.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0008406.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010452.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010171.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0004346.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010092.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010016.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000022.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000036.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011333.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010340.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010587.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000053.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009872.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009298.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000198.jpg": {
+        "caption": "black circle dark spot",
+        "prefix": [
+            "black circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009928.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011172.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0008659.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011204.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011338.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010460.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0003056.jpg": {
+        "caption": "green circle dark spot",
+        "prefix": [
+            "green circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000113.jpg": {
+        "caption": "purple circle dark spot",
+        "prefix": [
+            "purple circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010552.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010231.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0008116.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000302.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000003.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000479.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011305.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010190.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000107.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000101.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009930.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001427.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010374.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000015.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000200.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000177.jpg": {
+        "caption": "black circle dark spot",
+        "prefix": [
+            "black circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010257.jpg": {
+        "caption": "black circle dark spot",
+        "prefix": [
+            "black circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010448.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000549.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000407.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000188.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009959.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000287.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000099.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011104.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000311.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001204.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011359.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010055.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000125.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0006193.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010599.jpg": {
+        "caption": "brown star dark spot",
+        "prefix": [
+            "brown star "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011367.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000052.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000141.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009898.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011176.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010238.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009920.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010607.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000138.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000487.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011384.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011132.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011083.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000299.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010437.jpg": {
+        "caption": "brown bear dark spot",
+        "prefix": [
+            "brown bear "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000393.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010582.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010088.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0002246.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010215.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010261.jpg": {
+        "caption": "brown triangle dark spot",
+        "prefix": [
+            "brown triangle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000064.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000501.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000233.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000012.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010013.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009956.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000515.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010444.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000325.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000088.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000098.jpg": {
+        "caption": "black circle dark spot",
+        "prefix": [
+            "black circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010553.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010018.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0008992.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011129.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010451.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010216.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011101.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010028.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011321.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000547.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011148.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0008998.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010206.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000354.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010463.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009943.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000092.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000254.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000508.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009927.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010034.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000227.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000306.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010498.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011122.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009992.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000418.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009201.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010378.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011298.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009980.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011219.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000533.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010234.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011224.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009988.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000013.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010477.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000470.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010061.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0006711.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010004.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010175.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0002829.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000246.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009923.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011392.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011294.jpg": {
+        "caption": "brown paw dark spot",
+        "prefix": [
+            "brown paw "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001299.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001103.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000228.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000327.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0008600.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010326.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010193.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009889.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000456.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010454.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000368.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009874.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011177.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011110.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010346.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010369.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000510.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010229.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000069.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0001242.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010023.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000380.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009958.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000231.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0008207.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000234.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010584.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010058.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000420.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010368.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0002107.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0002871.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0009955.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0000213.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011374.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010588.jpg": {
+        "caption": "brown heart dark spot",
+        "prefix": [
+            "brown heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010100.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010348.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0010254.jpg": {
+        "caption": "red circle dark spot",
+        "prefix": [
+            "red circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0003728.jpg": {
+        "caption": "black circle dark spot",
+        "prefix": [
+            "black circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    },
+    "DATA/ISIC2016/test/ISIC2016/images/ISIC_0011310.jpg": {
+        "caption": "brown circle dark spot",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "dark spot"
+        ]
+    }
+}

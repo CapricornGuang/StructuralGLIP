@@ -1,0 +1,746 @@
+{
+    "DATA/POLYP/val/CVC-ClinicDB/images/166.png": {
+        "caption": "orange rectangle bump",
+        "prefix": [
+            "orange rectangle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/266.png": {
+        "caption": "brown circle bump",
+        "prefix": [
+            "brown circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/179.png": {
+        "caption": "black circle bump",
+        "prefix": [
+            "black circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/171.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/561.png": {
+        "caption": "white octagon bump",
+        "prefix": [
+            "white octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/279.png": {
+        "caption": "brown octagon bump",
+        "prefix": [
+            "brown octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/52.png": {
+        "caption": "yellow round bump",
+        "prefix": [
+            "yellow round "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/429.png": {
+        "caption": "white octagon bump",
+        "prefix": [
+            "white octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/65.png": {
+        "caption": "yellow octagon bump",
+        "prefix": [
+            "yellow octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/21.png": {
+        "caption": "yellow octagon bump",
+        "prefix": [
+            "yellow octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/134.png": {
+        "caption": "white round bump",
+        "prefix": [
+            "white round "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/80.png": {
+        "caption": "yellow octagon bump",
+        "prefix": [
+            "yellow octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/569.png": {
+        "caption": "white circle bump",
+        "prefix": [
+            "white circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/100.png": {
+        "caption": "yellow octagon bump",
+        "prefix": [
+            "yellow octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/397.png": {
+        "caption": "brown octagon bump",
+        "prefix": [
+            "brown octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/181.png": {
+        "caption": "black circle bump",
+        "prefix": [
+            "black circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/555.png": {
+        "caption": "orange heart bump",
+        "prefix": [
+            "orange heart "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/31.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/571.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/464.png": {
+        "caption": "gold octagon bump",
+        "prefix": [
+            "gold octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/89.png": {
+        "caption": "yellow hexagon bump",
+        "prefix": [
+            "yellow hexagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/66.png": {
+        "caption": "white octagon bump",
+        "prefix": [
+            "white octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/154.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/205.png": {
+        "caption": "yellow octagon bump",
+        "prefix": [
+            "yellow octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/148.png": {
+        "caption": "white round bump",
+        "prefix": [
+            "white round "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/191.png": {
+        "caption": "yellow hexagon bump",
+        "prefix": [
+            "yellow hexagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/425.png": {
+        "caption": "white octagon bump",
+        "prefix": [
+            "white octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/529.png": {
+        "caption": "yellow tongue bump",
+        "prefix": [
+            "yellow tongue "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/14.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/240.png": {
+        "caption": "yellow round bump",
+        "prefix": [
+            "yellow round "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/300.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/459.png": {
+        "caption": "white octagon bump",
+        "prefix": [
+            "white octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/404.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/442.png": {
+        "caption": "white circle bump",
+        "prefix": [
+            "white circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/559.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/287.png": {
+        "caption": "white octagon bump",
+        "prefix": [
+            "white octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/185.png": {
+        "caption": "black octagon bump",
+        "prefix": [
+            "black octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/431.png": {
+        "caption": "yellow octagon bump",
+        "prefix": [
+            "yellow octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/42.png": {
+        "caption": "yellow octagon bump",
+        "prefix": [
+            "yellow octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/50.png": {
+        "caption": "white octagon bump",
+        "prefix": [
+            "white octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/119.png": {
+        "caption": "white octagon bump",
+        "prefix": [
+            "white octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/307.png": {
+        "caption": "black octagon bump",
+        "prefix": [
+            "black octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/388.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/353.png": {
+        "caption": "white octagon bump",
+        "prefix": [
+            "white octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/474.png": {
+        "caption": "black oblong bump",
+        "prefix": [
+            "black oblong "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/61.png": {
+        "caption": "gold octagon bump",
+        "prefix": [
+            "gold octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/251.png": {
+        "caption": "yellow octagon bump",
+        "prefix": [
+            "yellow octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/453.png": {
+        "caption": "gold octagon bump",
+        "prefix": [
+            "gold octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/481.png": {
+        "caption": "white round bump",
+        "prefix": [
+            "white round "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/25.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/349.png": {
+        "caption": "black octagon bump",
+        "prefix": [
+            "black octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/374.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/483.png": {
+        "caption": "orange round bump",
+        "prefix": [
+            "orange round "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/575.png": {
+        "caption": "white octagon bump",
+        "prefix": [
+            "white octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/106.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/163.png": {
+        "caption": "yellow octagon bump",
+        "prefix": [
+            "yellow octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/73.png": {
+        "caption": "white circle bump",
+        "prefix": [
+            "white circle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/545.png": {
+        "caption": "yellow triangle bump",
+        "prefix": [
+            "yellow triangle "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/400.png": {
+        "caption": "red octagon bump",
+        "prefix": [
+            "red octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/381.png": {
+        "caption": "orange octagon bump",
+        "prefix": [
+            "orange octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/526.png": {
+        "caption": "white octagon bump",
+        "prefix": [
+            "white octagon "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    },
+    "DATA/POLYP/val/CVC-ClinicDB/images/492.png": {
+        "caption": "yellow round bump",
+        "prefix": [
+            "yellow round "
+        ],
+        "suffix": [
+            ""
+        ],
+        "name": [
+            "bump"
+        ]
+    }
+}

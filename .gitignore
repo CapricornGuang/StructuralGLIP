@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Compiled extensions and build products
+build/
+dist/
+*.so
+*.pyd
+*.dll
+*.dylib
+*.o
+*.obj
+
+# Models, datasets, and experiment outputs
+MODEL/*
+!MODEL/README.md
+DATA/*
+!DATA/README.md
+output/
+OUTPUT/
+logs/
+checkpoints/
+
+# Local archives and editor files
+*.zip
+*.tar
+*.tar.gz
+*.7z
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
