@@ -1,33 +1,40 @@
 # StructuralGLIP
 
-StructuralGLIP 是一个基于 GLIP 和 Mask R-CNN Benchmark 的医学图像零样本目标检测框架。针对传统方法将提示词直接拼接到类别名称、导致图像与描述对齐较粗的问题，StructuralGLIP 将医学提示编码为潜在知识库，并根据当前图像动态选择相关视觉与语言特征，形成细粒度的结构化表示。
+StructuralGLIP is a medical zero-shot object detection framework based on GLIP and Mask R-CNN Benchmark. Instead of directly concatenating medical prompts with category names, StructuralGLIP encodes prompts as a latent knowledge bank and dynamically selects image-relevant visual and language features. This design builds a more fine-grained structured representation for medical vision-language detection.
 
-核心特点：
+## Key Features
 
-- **双分支提示建模**：主分支处理图像与目标名称，辅助分支独立编码医学提示，减少冗余描述对目标语义的干扰。
-- **分层双向特征选择**：在多层视觉语言融合过程中，先由提示筛选相关视觉区域，再由视觉特征筛选关键提示 token。
-- **类别级提示复用**：颜色、形状、纹理和位置等类别知识可在同类样本间复用，并针对每幅图像进行动态匹配。
+- **Dual-branch prompt modeling**: the main branch handles the image and target category, while the auxiliary branch independently encodes medical prompts to reduce semantic interference.
+- **Hierarchical mutual selection**: prompt features first select relevant visual regions, and selected visual features further select important prompt tokens.
+- **Reusable category-level knowledge**: category attributes such as color, shape, texture, and location can be reused across samples and dynamically matched to each image.
 
-## 1. 目录结构
+## Documentation
+
+- [Project summary](docs/project_summary.md): a conceptual overview of StructuralGLIP, including motivation, method design, and experimental conclusions.
+- [Environment setup](docs/environment_setup.md): a detailed setup guide, including Mask R-CNN C++/CUDA extension compilation and common environment issues.
+- [Code structure](docs/code_structure.md): a module-level overview of the repository.
+- [Chinese README](README_zh-CN.md): Chinese project overview and quick start.
+
+## Repository Structure
 
 ```text
 StructuralGLIP/
-├── blip_json/               # 医学图像文本描述和 prompt
-├── configs/                 # 模型、数据集及实验配置
-├── DATA/                    # 数据集目录
-├── knowledge/               # ODinW knowledge 配置
-├── maskrcnn_benchmark/      # 模型、数据、训练、评估和 CUDA 算子
-├── MODEL/                   # BERT 与 GLIP 权重目录
-├── tools/                   # 训练、测试和可视化入口
-├── CODE_STRUCTURE.md        # 代码结构与调用流程
-├── reference.sh             # CVC-300 零样本推理示例
-├── requirements-core.txt    # 建议安装的核心依赖
-├── requirements.txt         # 完整环境依赖参考
-├── setup.py                 # C++/CUDA 扩展编译入口
-└── test.py                  # 医学数据零样本推理入口
+├── blip_json/               # Text descriptions and prompts for medical images
+├── configs/                 # Model, dataset, and experiment configs
+├── DATA/                    # Local dataset directory
+├── docs/                    # Project summary, environment setup, and code structure notes
+├── knowledge/               # ODinW knowledge configs
+├── maskrcnn_benchmark/      # Model, data, training, evaluation, and CUDA ops
+├── MODEL/                   # BERT and GLIP weight directory
+├── tools/                   # Training, testing, and visualization entry points
+├── reference.sh             # CVC-300 zero-shot inference example
+├── requirements-core.txt    # Recommended core dependencies
+├── requirements.txt         # Full environment reference
+├── setup.py                 # C++/CUDA extension build entry
+└── test.py                  # Medical zero-shot inference entry
 ```
 
-## 2. 推荐环境
+## Recommended Environment
 
 - Linux
 - Python 3.8
@@ -36,14 +43,14 @@ StructuralGLIP/
 - torchvision 0.11.2+cu113
 - torchaudio 0.10.1
 
-创建环境：
+Create the environment:
 
 ```bash
 conda create -n structuralglip python=3.8 -y
 conda activate structuralglip
 ```
 
-安装 PyTorch：
+Install PyTorch:
 
 ```bash
 pip install \
@@ -53,64 +60,66 @@ pip install \
   -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
-安装核心依赖：
+Install core dependencies:
 
 ```bash
 pip install -r requirements-core.txt
 ```
 
-`requirements.txt` 记录了完整实验环境。复现本项目时建议优先使用 `requirements-core.txt`，再根据实际任务补充其他依赖。
+`requirements.txt` records the broader experiment environment. For reproducing this repository, start with `requirements-core.txt` and install extra packages only when a specific task requires them.
 
-## 3. 编译 Mask R-CNN C++/CUDA 扩展
+## Build Mask R-CNN C++/CUDA Extension
 
-在目标服务器上重新编译，不能直接使用其他 Python、PyTorch 或 CUDA 环境生成的 `_C*.so`。
+The extension must be rebuilt on the target server. Do not reuse `_C*.so` files generated under another Python, PyTorch, or CUDA environment.
 
 ```bash
 unset PYTHONPATH
 rm -rf ~/.cache/torch_extensions
 rm -rf build maskrcnn_benchmark/_C*.so *.egg-info
 
-# 根据实际 GPU 修改。示例覆盖 V100、T4/RTX 20、A100、RTX 30。
+# Adjust according to the target GPU. This example covers V100, T4/RTX 20, A100, and RTX 30.
 export TORCH_CUDA_ARCH_LIST="7.0;7.5;8.0;8.6"
 
 python setup.py clean
 python setup.py build develop -v
 ```
 
-验证：
+Verify the extension:
 
 ```bash
 python -c "from maskrcnn_benchmark import _C; print('extension loaded')"
 ```
 
-如 OpenCV 报系统动态库错误：
+If OpenCV reports missing system libraries:
 
 ```bash
 sudo apt-get update
 sudo apt-get install -y libglib2.0-0 libglib2.0-dev libgl1
 ```
 
-## 4. 模型准备
+See [docs/environment_setup.md](docs/environment_setup.md) for more details about Mask R-CNN compilation, CUDA architecture, and common errors.
+
+## Prepare Models
 
 ```text
 MODEL/
 ├── bert-base-uncased/
 │   ├── config.json
-│   ├── pytorch_model.bin        # 或 model.safetensors
+│   ├── pytorch_model.bin        # or model.safetensors
 │   ├── tokenizer.json
 │   └── tokenizer_config.json
 └── glip_tiny_model_o365_goldg_cc_sbu.pth
 ```
 
-- 将 Hugging Face `bert-base-uncased` 下载到 `MODEL/bert-base-uncased/`。
-- 下载 GLIP-T 的 O365/GoldG/CC/SBU 预训练权重，放到 `MODEL/`。
-- 更多模型和数据来源可参考 [MIU-VL](https://github.com/MembrAI/MIU-VL)。
+- Download Hugging Face `bert-base-uncased` into `MODEL/bert-base-uncased/`.
+- Download the GLIP-T O365/GoldG/CC/SBU pretrained checkpoint into `MODEL/`.
+- More model and dataset resources can be found in [MIU-VL](https://github.com/MembrAI/MIU-VL).
 
-代码通过仓库相对路径 `MODEL/bert-base-uncased` 加载 BERT。
+The code loads BERT from the repository-relative path `MODEL/bert-base-uncased`.
 
-## 5. 数据准备
+## Prepare Data
 
-CVC-300 示例：
+CVC-300 example:
 
 ```text
 DATA/POLYP/
@@ -122,32 +131,32 @@ DATA/POLYP/
         └── masks/
 ```
 
-对应配置：
+Related config:
 
 ```text
 configs/pretrain/glip_Swin_T_O365_GoldG_polyp_cvc300.yaml
 ```
 
-其他数据集请检查对应 YAML 中的 `DATASETS.REGISTER`。数据路径应相对于仓库根目录填写。
+For other datasets, check `DATASETS.REGISTER` in the corresponding YAML file. Dataset paths should be written relative to the repository root.
 
-## 6. CVC-300 零样本推理
+## CVC-300 Zero-shot Inference
 
-准备好数据和权重后运行：
+After preparing data and model weights, run:
 
 ```bash
 bash reference.sh
 ```
 
-默认使用：
+Default paths:
 
 ```text
-配置：configs/pretrain/glip_Swin_T_O365_GoldG_polyp_cvc300.yaml
-权重：MODEL/glip_tiny_model_o365_goldg_cc_sbu.pth
-文本：blip_json/cvc300_val_noloc.json
-输出：output/polyp-test
+Config: configs/pretrain/glip_Swin_T_O365_GoldG_polyp_cvc300.yaml
+Weight: MODEL/glip_tiny_model_o365_goldg_cc_sbu.pth
+Prompt JSON: blip_json/cvc300_val_noloc.json
+Output: output/polyp-test
 ```
 
-也可以临时覆盖路径：
+You can override paths temporarily:
 
 ```bash
 MODEL_CHECKPOINT=/path/to/model.pth \
@@ -155,7 +164,7 @@ OUTPUT_DIR=output/cvc300 \
 bash reference.sh
 ```
 
-完整等价命令：
+Equivalent full command:
 
 ```bash
 python test.py \
@@ -173,18 +182,18 @@ python test.py \
   DATASETS.USE_CAPTION_PROMPT True
 ```
 
-## 7. 其他运行入口
+## Other Entry Points
 
 ```bash
-# 训练
+# Training
 python tools/train_net.py --config-file <config.yaml> OUTPUT_DIR <output_dir>
 
-# 通用目标检测测试
+# General object detection test
 python tools/test_net.py --config-file <config.yaml> --weight <checkpoint.pth>
 
-# Grounding 测试
+# Grounding test
 python tools/test_grounding_net.py --config-file <config.yaml> --weight <checkpoint.pth>
 
-# 可视化
+# Visualization
 python tools/visualize_grounding_net.py --help
 ```
